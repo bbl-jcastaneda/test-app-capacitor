@@ -5,8 +5,14 @@ and comes with a very minimal shell for building an app.
 
 ### Running this example
 
-To run the provided example, you can use `npm start` command.
+To run the provided example, yrun the followoing commands
 
 ```bash
-npm start
+npm run build
 ```
+
+```bash
+npx cap sync
+```
+
+You can then open the ios project with xcode
