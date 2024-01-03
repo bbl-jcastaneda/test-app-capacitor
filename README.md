@@ -5,7 +5,11 @@ and comes with a very minimal shell for building an app.
 
 ### Running this example
 
-To run the provided example, yrun the followoing commands
+To run the provided example, run the followoing commands
+
+```bash
+npm install
+```
 
 ```bash
 npm run build
